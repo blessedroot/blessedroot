@@ -4,7 +4,7 @@
   <a href="https://github.com/blessedroot">
     <img src="https://wakatime.com/badge/user/92b064c2-718f-404a-83af-39d09251e7c5.svg?style=for-the-badge" alt="Total time coded" />
   </a>
-  <a href="https://github.com/s0ckett">
+  <a href="https://github.com/blessedroot">
     <img src="https://komarev.com/ghpvc/?username=blessedroot&style=for-the-badge">
   </a>
 </p>
