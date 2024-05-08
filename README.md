@@ -1,4 +1,4 @@
-<h1 align="center">s0ckett</h1>
+<h1 align="center">🚀 s0ckett 🚀</h1>
 
 <p align="center">
   <a href="https://github.com/blessedroot">
@@ -10,20 +10,31 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/blessedroot">
-    <img src="https://github-readme-stats.vercel.app/api?username=blessedroot&count_private=true&theme=transparent&show_icons=true&hide_border=true&icon_color=blue&text_color=ffffff&bg_color=00000000">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=blessedroot&count_private=true&theme=radical&show_icons=true&hide_border=true&icon_color=blue&text_color=ffffff&bg_color=00000000&hide_title=true">
 </p>
 
 <p align="center">
-  <a href="https://github.com/blessedroot">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blessedroot&theme=solarized_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blessedroot&theme=solarized_dark">
+</p>
+
+<h3 align="center">🏆 GitHub Profile Trophy 🏆</h3>
+<p align="center">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=blessedroot&column=8&theme=discord&no-frame=true&no-bg=true"/>
+</p>
+
+<h3 align="center">🔥 Featured Repositories 🔥</h3>
+<p align="center">
+  <a href="https://github.com/blessedroot/awesome-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blessedroot&repo=awesome-project&theme=radical" />
+  </a>
+  <a href="https://github.com/blessedroot/cool-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blessedroot&repo=cool-repo&theme=radical" />
   </a>
 </p>
 
-<h3 align="center">GitHub Profile Trophy:</h3>
+<h3 align="center">📝 Latest Blog Posts 📝</h3>
 <p align="center">
-  <a href="https://github.com/blessedroot">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=blessedroot&column=8&theme=discord&no-frame=true&no-bg=true"/>
+  <a href="https://dev.to/blessedroot/how-to-create-a-stunning-github-profile-readme-3p82">
+    <img src="https://gh-readme-quotes.herokuapp.com/quotes/random" alt="Latest Blog Post" />
   </a>
 </p>
