@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/blessedroot">
-    <img src="https://github-readme-stats.vercel.app/api?username=blessedroot&count_private=true&theme=transparent&show_icons=true&hide_border=true&icon_color=blue&text_color=ffffff&ring_color=5d96f0">
+    <img src="https://github-readme-stats.vercel.app/api?username=blessedroot&count_private=true&theme=transparent&show_icons=true&hide_border=true&icon_color=blue&text_color=ffffff&bg_color=00000000">
   </a>
 </p>
 
