@@ -22,7 +22,7 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=blessedroot&column=8&theme=discord&no-frame=true&no-bg=true"/>
 </p>
 
-<h3 align="center">🔥 Мои навыки и языки 🔥</h3>
+<h3 align="center">🔥 Languages 🔥</h3>
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" />
