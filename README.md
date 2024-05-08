@@ -25,5 +25,7 @@
 <h3 align="center">🔥 Мои навыки и языки 🔥</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessedroot&layout=compact&theme=radical" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" />
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" title="Kotlin" />
 </p>
