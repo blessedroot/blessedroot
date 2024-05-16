@@ -15,8 +15,8 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://discord.com/users/330861775203336194" target="_blank" rel="nofollow">
-    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/330861775203336194?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
+  <a href="https://discord.com/users/983457000585297960" target="_blank" rel="nofollow">
+    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/983457000585297960?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
   </a>
 </p>
 
