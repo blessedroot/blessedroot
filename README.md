@@ -14,6 +14,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=blessedroot&show_icons=true&theme=radical&count_private=true&locale=en" alt="blessedroot"/>
   </a>
 </p>
-[![Discord Presence](https://lanyard.cnrad.dev/api/705665813994012695)](https://discord.com/users/705665813994012695)
-
-</p>
