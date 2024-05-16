@@ -14,17 +14,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=blessedroot&show_icons=true&theme=radical&count_private=true&locale=en" alt="blessedroot"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://discord.com/users/330861775203336194" target="_blank" rel="nofollow">
+    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/330861775203336194?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
+  </a>
+</p>
 
-<p align="center">
-  <a href="https://discord.com/users/983457000585297960" target="_blank" rel="nofollow">
-    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/983457000585297960?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord">
-</p>
-<p align="center">
-  <a href="https://twitter.com/RisasDev">
-    <img align="center" alt="Twitter" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-  </a>
-  <a href="https://discord.gg/bVGq6G8ur6">
-    <img align="center" alt="Discord" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-  </a>
-</p>
 </p>
