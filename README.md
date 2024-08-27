@@ -5,7 +5,7 @@
 </p>
 
 <p align="center"><b>Hi, my name is Ivan but some call me s0ckett 👋</b></p>
-<p align="center">💻 I have knowledge in <b>Java</b> and <b>Python</b><br>🎉 I'm <b>17</b> years old</p>
+<p align="center">💻 I have knowledge in <b>Java</b>, <b>Kotlin</b>, <b>Python</b><br>🎉 I'm <b>18</b> years old</p>
 
 </br>
 
