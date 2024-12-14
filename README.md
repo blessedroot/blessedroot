@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/Java-red?style=flat" />
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat" />
 <img src="https://img.shields.io/badge/Python-blue?style=flat" />
+<img src="https://img.shields.io/badge/MongoDB-black?style=flat" />
 <img src="https://img.shields.io/badge/SQL-green?style=flat" />
 <img src="https://img.shields.io/badge/TypeScript-yellow?style=flat" />
 <img src="https://img.shields.io/badge/Kotlin-purple?style=flat" />
