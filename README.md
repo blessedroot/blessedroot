@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Python-blue?style=flat" />
 <img src="https://img.shields.io/badge/SQL-green?style=flat" />
 <img src="https://img.shields.io/badge/TypeScript-yellow?style=flat" />
-<img src="https://img.shields.io/badge/Kotlin-black?style=flat" />
+<img src="https://img.shields.io/badge/Kotlin-purple?style=flat" />
 </div>
 </p>
 
