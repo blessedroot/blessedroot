@@ -15,6 +15,16 @@
 </p>
 
 <p align="center"><b>Hi, my name is Ivan but some call me s0ckett, molex 👋</b></p>
-<p align="center">I'm <b>18</b> years old</p>
+<div align="center">
+
+> ### Социальные сети / Social Networks
+> <br>
+> <br>
+> <br>
+> <a href="https://t.me/playboyjava/">
+>     <img src="https://img.shields.io/badge/Telegram (будни говнокодера)-lightblue?style=for-the-badge&logo=telegram" />
+> </a>
+ 
+</div>
 
 </br>
