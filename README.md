@@ -14,7 +14,7 @@
 </div>
 </p>
 
-<p align="center"><b>Hi, my name is Ivan but some call me s0ckett, molex 👋</b></p>
+<p align="center"><b>Hi, my name is Ivan but some call me s0ckett 👋</b></p>
 <div align="center">
 
 > ### Социальные сети / Social Networks
